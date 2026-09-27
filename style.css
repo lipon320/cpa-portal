@@ -190,14 +190,3 @@ a {
     .sticky-bottom { display: block; } /* Mobile-এ শো করবে */
     .article-title { font-size: 1.4rem; }
 }
-
-/* Ads Responsive Adjustment */
-.ad-container {
-    max-width: 100%;
-    overflow: hidden;
-}
-.ad-container iframe, 
-.ad-container img {
-    max-width: 100% !important;
-    height: auto !important;
-}
